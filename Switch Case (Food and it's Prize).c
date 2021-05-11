@@ -11,9 +11,9 @@ main()
 		        break;
 		case 2: printf("\n Food Item- Sandwich \n Prize- Rs.150");
 		        break;        
-	    case 3: printf("\n Food Item- French Fries \n Prize- Rs.89");
+	        case 3: printf("\n Food Item- French Fries \n Prize- Rs.89");
 	            break;
-	    case 4: printf("\n Food Item- Burger \n Prize- Rs.135");
+	        case 4: printf("\n Food Item- Burger \n Prize- Rs.135");
 		        break;
 		case 5: printf("\n Food Item- Croissants \n Prize- Rs.110");
 		        break;
