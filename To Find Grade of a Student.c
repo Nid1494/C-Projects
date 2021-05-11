@@ -9,17 +9,17 @@ main()
 		printf("\n The student got Grade A");
 	}
 	else
-	    if(marks>=70 && marks<85)
+	    if(marks>=70)
 	    {
 	    	printf("\n The student got Grade B");
 		}
 		else
-		     if(marks>=55 && marks<70)
+		     if(marks>=55)
 		     {
 		     	printf("\n The student got grade C");
 			 }
 			 else
-			      if(marks>=40 && marks<55)
+			      if(marks>=40)
 			      {
 			      	printf("\n The student got Grade D");
 				  }
