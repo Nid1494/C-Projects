@@ -4,8 +4,10 @@ void lcm(int,int);
 void main()
 {
 	int num1,num2;
-	printf("Enter two numbers whose LCM has to be found: ");
-	scanf("%d %d",&num1,&num2);
+	printf("Enter First Number: ");
+	scanf("%d",&num1);
+	printf("Enter Second Number: ");
+	scanf("%d",&num2);
 	lcm(num1,num2);
 }
 void lcm(int num1,int num2)
