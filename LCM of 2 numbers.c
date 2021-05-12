@@ -14,7 +14,7 @@ void lcm(int num1,int num2)
 {
 	if(LCM%num1==0 && LCM%num2==0)
 	{
-		printf("LCM of %d and %d is = %d",num1,num2,LCM);
+		printf("\n LCM of %d and %d is = %d",num1,num2,LCM);
 	}
 	else
 	{
