@@ -24,7 +24,7 @@ void main()
         }
         printf("\n");
     }
-    if(n==m && n==m!=1)
+    if(n==m && n!=1)
     {
     	for(i=0;i<n;i++)
     	{
