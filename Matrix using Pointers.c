@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-    int arr[3][3],i,j,n,m,sum=0;
+    int arr[30][30],i,j,n,m,sum=0;
     int *ptr;
     printf("Enter number of rows and column: ");
     scanf("%d %d",&n,&m);
@@ -24,7 +24,7 @@ void main()
         }
         printf("\n");
     }
-    if(n==m)
+    if(n==m && n==m!=1)
     {
     	for(i=0;i<n;i++)
     	{
